@@ -1,0 +1,3 @@
+* coup
+Implement a game of coup using ~Hy~ following the rules given in [[https://upload.snakesandlattes.com/rules/c/CoupTheResistance.pdf][this
+link]]. 
